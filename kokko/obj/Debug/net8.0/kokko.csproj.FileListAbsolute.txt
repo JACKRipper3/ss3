@@ -1,0 +1,14 @@
+C:\D2\ss3\kokko\bin\Debug\net8.0\kokko.exe
+C:\D2\ss3\kokko\bin\Debug\net8.0\kokko.deps.json
+C:\D2\ss3\kokko\bin\Debug\net8.0\kokko.runtimeconfig.json
+C:\D2\ss3\kokko\bin\Debug\net8.0\kokko.dll
+C:\D2\ss3\kokko\bin\Debug\net8.0\kokko.pdb
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.AssemblyInfoInputs.cache
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.AssemblyInfo.cs
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.csproj.CoreCompileInputs.cache
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.dll
+C:\D2\ss3\kokko\obj\Debug\net8.0\refint\kokko.dll
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.pdb
+C:\D2\ss3\kokko\obj\Debug\net8.0\kokko.genruntimeconfig.cache
+C:\D2\ss3\kokko\obj\Debug\net8.0\ref\kokko.dll
