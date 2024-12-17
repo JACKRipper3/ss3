@@ -1,0 +1,17 @@
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.csproj.GenerateResource.cache
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.AssemblyInfoInputs.cache
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.AssemblyInfo.cs
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.csproj.CoreCompileInputs.cache
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.sourcelink.json
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.form1.resources
+C:\D2\ss3\cis2\bin\Debug\net8.0-windows\cis2.exe
+C:\D2\ss3\cis2\bin\Debug\net8.0-windows\cis2.deps.json
+C:\D2\ss3\cis2\bin\Debug\net8.0-windows\cis2.runtimeconfig.json
+C:\D2\ss3\cis2\bin\Debug\net8.0-windows\cis2.dll
+C:\D2\ss3\cis2\bin\Debug\net8.0-windows\cis2.pdb
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.dll
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\refint\cis2.dll
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.pdb
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\cis2.genruntimeconfig.cache
+C:\D2\ss3\cis2\obj\Debug\net8.0-windows\ref\cis2.dll
